@@ -3,6 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "block/screen",
+		"1": "spaceship/screen_display_0",
 		"particle": "block/screen"
 	},
 	"elements": [
@@ -11,7 +12,7 @@
 			"to": [24, 13, 13],
 			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 5, 15.75]},
 			"faces": {
-				"north": {"uv": [0, 0, 8, 2.75], "texture": "#0"},
+				"north": {"uv": [0, 0, 16, 5.5], "texture": "#1"},
 				"east": {"uv": [0, 6, 0.25, 8.75], "texture": "#0"},
 				"south": {"uv": [0, 2.75, 8, 5.5], "texture": "#0"},
 				"west": {"uv": [0.25, 6, 0.5, 8.75], "texture": "#0"},
