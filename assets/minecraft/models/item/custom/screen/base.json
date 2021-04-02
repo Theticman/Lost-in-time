@@ -1,10 +1,7 @@
 {
 	"credit": "Made by Theticman",
-	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/screen",
-		"1": "spaceship/screen_display_0",
-		"particle": "block/screen"
+		"0": "spaceship/screen/base"
 	},
 	"elements": [
 		{
@@ -59,8 +56,8 @@
 	],
 	"display": {
 		"fixed": {
-			"translation": [0, 8.5, -31],
-			"scale": [4, 4, 4]
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
 		}
 	}
 }
