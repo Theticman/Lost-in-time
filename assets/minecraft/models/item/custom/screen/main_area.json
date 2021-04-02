@@ -1,0 +1,7 @@
+{
+	"parent": "item/custom/screen/base",
+	"credit": "Made by Theticman",
+	"textures": {
+		"1": "spaceship/screen/main_area"
+	}
+}

@@ -4,6 +4,7 @@
         "layer0": "item/stick"
     },
     "overrides": [
-        { "predicate": {"custom_model_data":1}, "model": "item/custom/screen/control_room"}
+        { "predicate": {"custom_model_data":1}, "model": "item/custom/screen/control_room"},
+        { "predicate": {"custom_model_data":2}, "model": "item/custom/screen/main_area"}
       ]
 }
