@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "minecraft:spaceship/grille",
+    "top": "minecraft:spaceship/grille",
+    "side": "minecraft:block/oak_planks"
+  }
+}
