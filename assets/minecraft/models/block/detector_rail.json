@@ -2,8 +2,8 @@
 	"credit": "Made by Theticman",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "spaceship/furniture/triple_light_straight",
-		"particle": "spaceship/furniture/triple_light_straight"
+		"0": "spaceship/furniture/triple_light_middle_joint",
+		"particle": "spaceship/furniture/triple_light_middle_joint"
 	},
 	"elements": [
 		{

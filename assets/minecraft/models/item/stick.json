@@ -6,6 +6,9 @@
     "overrides": [
         { "predicate": {"custom_model_data":1}, "model": "item/custom/screen/control_room"},
         { "predicate": {"custom_model_data":2}, "model": "item/custom/screen/main_area"},
-        { "predicate": {"custom_model_data":11}, "model": "item/custom/structure/sas_door"}
+        { "predicate": {"custom_model_data":11}, "model": "item/custom/structure/sas_door"},
+        { "predicate": {"custom_model_data":100}, "model": "item/custom/structure/test_pillar"},
+        { "predicate": {"custom_model_data":101}, "model": "item/custom/structure/test_pillar_2"},
+        { "predicate": {"custom_model_data":102}, "model": "item/custom/structure/tubes"}
       ]
 }
