@@ -1,7 +1,28 @@
 {
-	"parent": "item/custom/screen/base",
 	"credit": "Made by Theticman",
+	"texture_size": [32, 32],
 	"textures": {
-		"1": "spaceship/screen/control_room"
+		"0": "spaceship/screen/control_room",
+		"particle": "spaceship/screen/control_room"
+	},
+	"elements": [
+		{
+			"from": [-8, 1.5, 7.5],
+			"to": [24, 6.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, -7.75]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2.5], "texture": "#0"},
+				"east": {"uv": [0, 6, 0.5, 8.5], "texture": "#0"},
+				"south": {"uv": [0, 2.5, 16, 5], "texture": "#0"},
+				"west": {"uv": [0.5, 6, 1, 8.5], "texture": "#0"},
+				"up": {"uv": [16, 5.5, 0, 5], "texture": "#0"},
+				"down": {"uv": [16, 5.5, 0, 6], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"scale": [2, 2, 2]
+		}
 	}
 }
