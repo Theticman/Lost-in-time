@@ -2,7 +2,7 @@
 	"credit": "Made by Theticman",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "spaceship/structure/sas_bottom",
+		"0": "spaceship/structure/sas_inner_bottom",
 		"1": "spaceship/structure/sas_border_red",
 		"particle": "spaceship/structure/sas_bottom"
 	},
