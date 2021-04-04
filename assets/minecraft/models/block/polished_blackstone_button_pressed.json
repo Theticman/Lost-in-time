@@ -1,0 +1,7 @@
+{
+	"parent": "block/crimson_button_pressed",
+	"credit": "Made by Theticman",
+	"textures": {
+		"1": "spaceship/structure/sas_border_green"
+	}
+}
