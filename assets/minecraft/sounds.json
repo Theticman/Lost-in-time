@@ -3,5 +3,15 @@
 		"sounds": [
 			"custom/sas_open"
 			]
+	},
+	"custom.sas_close": {
+		"sounds": [
+			"custom/sas_close"
+			]
+	},
+	"custom.sas_cancel_close": {
+		"sounds": [
+			"custom/sas_cancel_close"
+			]
 	}
 }
