@@ -1,0 +1,22 @@
+{
+	"credit": "Made by Theticman",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "block/bottom",
+		"particle": "spaceship/pillar_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, -16, 0],
+			"to": [16, 32, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 12], "texture": "#1"},
+				"east": {"uv": [0, 0, 4, 12], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 12], "texture": "#1"},
+				"west": {"uv": [0, 0, 4, 12], "texture": "#1"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#1"}
+			}
+		}
+	]
+}
