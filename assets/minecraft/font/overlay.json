@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/suit_helmet.png",
+            "ascent": 1000,
+            "height": 2000,
+            "chars": [
+                "A"
+            ]
+        }
+    ]
+}
