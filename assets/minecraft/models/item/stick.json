@@ -11,6 +11,10 @@
         { "predicate": {"custom_model_data":105}, "model": "item/custom/suit/helmet"},
         { "predicate": {"custom_model_data":100000}, "model": "item/custom/hologram/base"},
         { "predicate": {"custom_model_data":100001}, "model": "item/custom/hologram/ai_idle"},
-        { "predicate": {"custom_model_data":200000}, "model": "item/custom/rover/base"}
+
+        { "predicate": {"custom_model_data":200000}, "model": "item/custom/rover/front_left"},
+        { "predicate": {"custom_model_data":200001}, "model": "item/custom/rover/front_right"},
+        { "predicate": {"custom_model_data":200002}, "model": "item/custom/rover/back_left"},
+        { "predicate": {"custom_model_data":200003}, "model": "item/custom/rover/back_right"}
       ]
 }
