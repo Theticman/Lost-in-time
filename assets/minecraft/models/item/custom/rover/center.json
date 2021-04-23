@@ -2,7 +2,7 @@
 	"parent": "item/custom/rover/base",
 	"display": {
 		"head": {
-			"translation": [21.33333, -6, 51.2],
+			"translation": [0, -6, 14.93],
 			"scale": [2.5, 2.5, 2.5]
 		}
 	}
