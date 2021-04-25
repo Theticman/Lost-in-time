@@ -2,8 +2,7 @@
 	"credit": "Made by Theticman",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "spaceship/hologram/no_signal",
-		"particle": "spaceship/hologram/no_signal"
+		"0": "spaceship/hologram/quest/0"
 	},
 	"elements": [
 		{

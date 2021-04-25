@@ -2,6 +2,6 @@
 	"parent": "item/custom/hologram/base",
 	"credit": "Made by Theticman",
 	"textures": {
-		"0": "spaceship/hologram/ai_talk"
+		"0": "spaceship/hologram/ai/blink"
 	}
 }
