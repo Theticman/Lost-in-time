@@ -1,3 +1,8 @@
 {
-	"\u00a1":"Hello worldHello worldHello world\u00a1"
+	"Welcome to XXXX!": "%s",
+	"Please intall the ressource pack to play!": "%s",
+	"Click here to download the ressource pack!": "%s",
+	"register.title": "Welcome to XXXX!",
+	"register.confirm.subtitle": "Click in chat to continue!",
+	"register.confirm.tellraw": "Click to confirm the ressource pack is installed."
 }
