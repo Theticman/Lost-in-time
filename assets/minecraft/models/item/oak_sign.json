@@ -1,10 +1,10 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/stick"
+        "layer0": "item/oak_sign"
     },
     "overrides": [
-        { "predicate": {"custom_model_data":0}, "model": "item/custom/hologram/quest/0"},
+        { "predicate": {"custom_model_data":1}, "model": "item/custom/hologram/quest/1"},
 
         { "predicate": {"custom_model_data":1000}, "model": "item/custom/hologram/ai_idle"},
         { "predicate": {"custom_model_data":1001}, "model": "item/custom/hologram/ai_blink"},
